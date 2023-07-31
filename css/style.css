@@ -1,0 +1,49 @@
+body{
+    font-family: 'Roboto'!important;
+    background-color: #eceff4;
+}
+
+.phone-card{
+    max-width: 450px;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.list-card{
+    max-width: 450px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.card-header{
+    background-color: #ffffff;
+}
+.btn-save{
+    background-color: #4d59a1;
+    color: #ffffff;
+}
+.card{
+    -webkit-box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+    -moz-box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+    box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+}
+.remove-btn{
+    margin-left: 20px;
+    color: black;
+    text-decoration: none;
+}
+.remove-btn:hover{
+    text-decoration: none;
+    color: #4e555b;
+}
+.contact-card-body h6{
+    font-weight: bold;
+}
+.contact-card-body{
+    padding-bottom: 0px;
+    padding-top: 0px;
+}
+.contact-card-item{
+    border-bottom: 1px solid lightgray;
+    padding-top: 20px;
+}
